@@ -7,25 +7,15 @@
 
 Python File Lock is a Free, technologically advanced, semi-open-source (program code is viewable) File Encryption and Decryption Software designed to provide exceptional Quantum-resistant security for sensitive data. Utilizing a unique 4-layer Multi-Encryption approach with password HMAC hashing and PBKDF2 deriving, this program offers resistance against attacks from both current and future supercomputers and quantum computers.
 
-### ⭐ Key Features
+### 🔑 Key Features
 
-- Simple and familiar interface
-- Native security by design
-- Strict no-data-collection policy
-- Cross-platform compatibility (Linux and Windows)
+- 4-layer encryption: Fernet, AES-256-CBC, ChaCha20-Poly1305, and XOR
+- Quantum-resistant encryption engine
+- Straightforward user interface
+- Automatic encryption and decryption process
+- Open-source (with restrictions, see License)
 
-#🔒Python File Lock
-Quantum-Resistant 5-Layer Encryption Program
-Python File Lock is FREE, advanced, semi-open-source (program code is viewable) File Encryption and Decryption Software designed to provide exceptional Quantum-resistant security for sensitive data. Utilizing a unique 4-layer Multi-Encryption approach, this program offers resistance against attacks from both current and future supercomputers and quantum computers.
-
-Features
-
-4-layer encryption: Fernet, AES-256-CBC, ChaCha20-Poly1305, and XOR
-Quantum-resistant encryption engine
-Straightforward user interface
-Automatic encryption and decryption process
-Open-source (with restrictions, see License)
-
+# ❓How to use:
 How to use:
 Install Instructions
 
@@ -33,10 +23,11 @@ Run the program
 Choose to encrypt or decrypt a file
 Enter your password
 Select the file to encrypt/decrypt
-The program will automatically process the file and output the result
+The program will automatically process the file and output the result and output it as {Program Name}.encrypt
 
 Password Recommendations
-For generating a strong password, we recommend using KeePass, an open-source password manager. KeePass can generate high-entropy passwords that significantly enhance the security of your encrypted files.
+For generating a strong password, we recommend generating a password using KeePass, an open-source password generator and password manager. KeePass can generate high-entropy passwords that significantly enhance the security of your encrypted files.
+
 Security
 Python File Lock uses a combination of strong encryption algorithms and a multi-layer approach to provide robust security:
 
