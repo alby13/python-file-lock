@@ -1,3 +1,19 @@
+# 🔒Python File Lock
+
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
+ Quantum-Resistant 4-Layer Encryption Program
+
+## 📖 Introduction
+
+Python File Lock is a Free, technologically advanced, semi-open-source (program code is viewable) File Encryption and Decryption Software designed to provide exceptional Quantum-resistant security for sensitive data. Utilizing a unique 4-layer Multi-Encryption approach with password HMAC hashing and PBKDF2 deriving, this program offers resistance against attacks from both current and future supercomputers and quantum computers.
+
+### ⭐ Key Features
+
+- Simple and familiar interface
+- Native security by design
+- Strict no-data-collection policy
+- Cross-platform compatibility (Linux and Windows)
+
 #🔒Python File Lock
 Quantum-Resistant 5-Layer Encryption Program
 Python File Lock is FREE, advanced, semi-open-source (program code is viewable) File Encryption and Decryption Software designed to provide exceptional Quantum-resistant security for sensitive data. Utilizing a unique 4-layer Multi-Encryption approach, this program offers resistance against attacks from both current and future supercomputers and quantum computers.
