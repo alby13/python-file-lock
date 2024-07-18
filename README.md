@@ -11,7 +11,7 @@ Automatic encryption and decryption process
 Open-source (with restrictions, see License)
 
 How to use:
-[Provide installation instructions here]
+Install Instructions
 
 Run the program
 Choose to encrypt or decrypt a file
@@ -44,6 +44,6 @@ Please see the LICENSE file for full details.
 Disclaimer
 This software is provided "as is", without warranty of any kind. Use at your own risk.
 Contact
-[Provide contact information or links]
+CONTACT INFO
 
 Proudly Programmed and Made In The USA.
