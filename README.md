@@ -17,16 +17,17 @@ Python File Lock is a Free, technologically advanced, semi-open-source (program 
 
 # ❓How to use:
 How to use:
-Install Instructions
+This program 
+
 
 Run the program
-Choose to encrypt or decrypt a file
-Enter your password
-Select the file to encrypt/decrypt
+Inspired by programs of yesteryear, the program will ask you if you want to clear the terminal screen to display the program from the top of the screen. Select Yes by typing "y" and pressing enter, or select No by typing "n" and pressing enter.
+
+Do you want to Encrypt or Decrypt? Select Encrypt by typing "E" or "e"
 The program will automatically process the file and output the result and output it as {Program Name}.encrypt
 
 Password Recommendations
-For generating a strong password, we recommend generating a password using KeePass, an open-source password generator and password manager. KeePass can generate high-entropy passwords that significantly enhance the security of your encrypted files.
+You may use any password that you wish, but using a weak password will make your encrypted file weak. You may create a strong password by using Lowercase, Uppercase, Numbers, and Symbols and also use a long password with over 12 characters. For generating a strong password, we recommend generating a password using KeePass, an open-source password generator and password manager. KeePass can generate high-entropy passwords that significantly enhance the security of your encrypted files.
 
 Security
 Python File Lock uses a combination of strong encryption algorithms and a multi-layer approach to provide robust security:
