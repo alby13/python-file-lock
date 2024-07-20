@@ -1,7 +1,8 @@
 # 🔒Python File Lock
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
- Quantum-Resistant 4-Layer Encryption Program
+
+Quantum-Resistant 4-Layer Encryption Program
 
 ## 📖 Introduction
 
