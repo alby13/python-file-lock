@@ -17,18 +17,25 @@ Whitepaper:
 - Quantum-resistant encryption engine
 - Straightforward user interface
 - Automatic encryption and decryption process
-- Open-source (with restrictions, see License)
+- Viewable-source (with restrictions, see License)
 
 # ❓How to use:
-How to use:
-This program 
+<img src="https://github.com/alby13/python-file-lock/blob/main/image-program-screen.png">
+
+### Launch the program
 
 
-Run the program
-Inspired by programs of yesteryear, the program will ask you if you want to clear the terminal screen to display the program from the top of the screen. Select Yes by typing "y" and pressing enter, or select No by typing "n" and pressing enter.
+<code>python_file_lock.py</code>
 
-Do you want to Encrypt or Decrypt? Select Encrypt by typing "E" or "e"
-The program will automatically process the file and output the result and output it as {Program Name}.encrypt
+If you are using Windows, you may launch the file with the Batch (BAT) File by double clicking on **RunPythonFileLock.bat**
+
+Inspired by legacy programs, the program begins by asking you if you want to clear the text on your screen to display the program menu wizard from the top of the screen. Select Yes by typing "y" and pressing enter, or select No by typing "n" and pressing enter.
+
+### Select Encrypt or Decrypt
+
+- Do you want to Encrypt or Decrypt? Select Encrypt by typing "E" or "e"
+
+  The program will automatically process the file and output the result and output it as {Program Name}.encrypt
 
 Password Recommendations
 You may use any password that you wish, but using a weak password will make your encrypted file weak. You may create a strong password by using Lowercase, Uppercase, Numbers, and Symbols and also use a long password with over 12 characters. For generating a strong password, we recommend generating a password using KeePass, an open-source password generator and password manager. KeePass can generate high-entropy passwords that significantly enhance the security of your encrypted files.
@@ -51,7 +58,7 @@ Contributing
 # License
 Python File Lock is released under a dual license:
 
-- For individuals, non-profits, and educational institutions: Free to download, use, and review the code.
+- For individuals, non-profits, and educational institutions: Free to download, use, and review the code. You may not develop your own program based on this code.
 - For companies and other organizations: A commercial "Pro" version is available for purchase.
 
 Please see the LICENSE.txt file for full details.
