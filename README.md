@@ -8,6 +8,9 @@ Quantum-Resistant 4-Layer Encryption Program
 
 Python File Lock is a Free for individuals, technologically advanced, readable source code, File Encryption and Decryption Software designed to provide exceptional Quantum-resistant security for personal data. Utilizing a unique 4-layer Multi-Encryption approach with password HMAC hashing and PBKDF2 deriving, this program offers resistance against attacks from both current and future supercomputers and quantum computers.
 
+Whitepaper:
+<a href="https://github.com/alby13/python-file-lock/blob/main/python-file-lock-whitepaper-v2.pdf">PDF</a>
+
 ### 🔑 Key Features
 
 - 4-layer encryption: Fernet, AES-256-CBC, ChaCha20-Poly1305, and XOR
